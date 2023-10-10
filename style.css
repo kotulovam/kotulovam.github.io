@@ -36,12 +36,19 @@ h2 {
     margin-bottom:-10px;
 }
 h3 {
-    margin-bottom:20px;
+    margin-bottom:10px;
+    font-size: 1em;
+    font-weight: 40;
+    line-height: 1.5;
+}
+h4 {
+    margin-bottom:-10px;
     font-size: 1em;
     font-weight: 40;
     line-height: 1.5;
 }
 p, li {
+    margin-bottom:10px;
     font-size: 1.7em;
 }
 a {
